@@ -108,7 +108,7 @@ proposal/Quantum.pdf
 
 ##  Getting Started
 
-git clone https://github.com/your-username/quantum-project-proposal.git
+git clone https://github.com/costelloelvis/quantum-project-proposal.git
 
 cd quantum-project-proposal 
 
