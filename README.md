@@ -2,7 +2,7 @@
 
 # Open-Source Modeling of Photoluminescence Dynamics in Semiconductor Quantum Dots
 
-## 📌 Overview
+## Overview
 
 This project develops an open-source Python toolkit for simulating photoluminescence (PL) spectra and exciton dynamics in semiconductor quantum dots (QDs).
 
@@ -12,14 +12,14 @@ This project bridges semiconductor physics and open quantum system simulations u
 
 ------------------------------------------------------------
 
-## 👨‍🏫 Mentor
+## Mentor
 
 - Wanjiru Elvis Muhinyia — Lead Mentor
   University of Nairobi
 
 ------------------------------------------------------------
 
-## 🎯 Objectives
+##  Objectives
 
 - Implement quantum confinement models (Brus and Kayanuma equations)
 - Simulate exciton population dynamics using Lindblad master equations (QuTiP)
@@ -29,7 +29,7 @@ This project bridges semiconductor physics and open quantum system simulations u
 
 ------------------------------------------------------------
 
-## 🧠 Physics Background
+##  Physics Background
 
 ### Quantum Confinement
 
@@ -44,7 +44,7 @@ Exciton dynamics are modeled using density matrices and Lindblad evolution invol
 
 ------------------------------------------------------------
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - NumPy
@@ -56,7 +56,7 @@ Exciton dynamics are modeled using density matrices and Lindblad evolution invol
 
 ------------------------------------------------------------
 
-## 📂 Project Structure
+## Project Structure
 
 src/        → Core simulation engine
 notebooks/  → Educational Jupyter notebooks
@@ -65,7 +65,7 @@ proposal/   → QIntern 2026 proposal PDF
 
 ------------------------------------------------------------
 
-## 📄 Proposal
+## Proposal
 
 The full project proposal is available here:
 
@@ -73,7 +73,7 @@ proposal/Quantum.pdf
 
 ------------------------------------------------------------
 
-## 🗓️ Work Plan (QIntern 2026)
+## Work Plan (QIntern 2026)
 
 ### Week 1–2
 - Literature review
@@ -97,7 +97,7 @@ proposal/Quantum.pdf
 
 ------------------------------------------------------------
 
-## 📦 Deliverables
+##  Deliverables
 
 - Python simulation library for quantum dot photoluminescence
 - Jupyter notebook tutorials
@@ -106,17 +106,17 @@ proposal/Quantum.pdf
 
 ------------------------------------------------------------
 
-## 🚀 Getting Started
+##  Getting Started
 
-git clone https://github.com/your-username/quantum-dot-pl-simulator.git
+git clone https://github.com/your-username/quantum-project-proposal.git
 
-cd quantum-dot-pl-simulator
+cd quantum-project-proposal 
 
 pip install -r requirements.txt
 
 ------------------------------------------------------------
 
-## 📌 Requirements
+## Requirements
 
 requirements.txt
 
@@ -128,7 +128,7 @@ jupyter
 
 ------------------------------------------------------------
 
-## 📊 Expected Impact
+##  Expected Impact
 
 This project contributes to open scientific computing in quantum technologies by providing accessible tools for modeling:
 - Quantum confinement effects
@@ -139,6 +139,6 @@ It is intended for students, educators, and researchers in quantum physics and n
 
 ------------------------------------------------------------
 
-## 📜 License
+## License
 
 MIT License
